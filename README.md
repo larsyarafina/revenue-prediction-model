@@ -29,6 +29,8 @@ yang berarti, setiap harinya, revenue diprediksikan dapat bertambah sekitar 89.7
 | Mean Absolute Percentage Error (MAPE) | 12.17%          |
 | Root Mean Squared Error (RMSE)        | 39.63           |
 | R² Score                              | 0.84            |
+
+
 Hasil metrik ini menunjukkan bahwa model Linear Regression telah bekerja dengan cukup baik dengan kesalahan prediksi atau margin error masih minim di angka 12%. 
 
 ## 🧠 Predict Future Revenue 

@@ -16,7 +16,7 @@ Model Machine Learning dibuat untuk memprediksi nilai revenue terhadap waktu, di
 ![Perbandingan data aktual dan data prediksi model Linear Regression](data/actual_vs_predicted.png)
 
 Hasil model prediksi ditunjukkan dalam grafik Revenue aktual yang dibandingkan dengan garis prediksi Revenue. Titik biru menunjukkan nilai revenue yang sebenarnya sesuai dalam dataset, sedangkan garis merah menunjukkan hasil prediksi model Linear Regression berdasarkan tanggal. Pada tahun-tahun awal, nilai revenue yang sebenarnya tidak jauh dengan nilai revenue yang diprediksi model Linear Regression. Namun, seiring bertambahnya waktu, nilai revenue aktual mulai jauh dari nilai revenue yang diprediksi model. Dari model ini, dihasilkan formula berikut,
-
+$Revenue = 86.9213 + 0.0897 × days_since_start$
 yang berarti, setiap harinya, revenue diprediksikan dapat bertambah sekitar 89.7 ribu.
 
 ## 📈 Evaluation Metrics
